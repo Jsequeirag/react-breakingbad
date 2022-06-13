@@ -1,0 +1,15 @@
+.search {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+.search input {
+  width: 50%;
+  height: 30px;
+  font-size: 25px;
+  font-family: "Amatic SC", cursive;
+  font-weight: bold;
+}
+.search input:focus {
+  outline: none;
+}

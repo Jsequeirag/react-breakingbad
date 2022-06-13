@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: #000 url("../public/images/bg.jpg") no-repeat center center/cover;
+  height: 100vh;
+  color: #fff;
+  font-family: "Amatic SC", cursive;
+}
