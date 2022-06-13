@@ -18,6 +18,8 @@ export default function Characters({ data, isLoading, search }) {
       ))}
     </div>
   ) : (
-    <Loading />
+    <div className="characters">
+      <Loading />
+    </div>
   );
 }
